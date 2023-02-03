@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![.github/workflows/stale.yml](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/stale.yml/badge.svg)](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/stale.yml)
+
 <!--
 
 **Here are some ideas to get you started:**
