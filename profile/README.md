@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![.github/workflows/stale.yml](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/stale.yml/badge.svg)](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/stale.yml)
-
+[![.github/workflows/stale.yml](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/stale.yml/badge.svg)](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/stale.yml)[![Greetings](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/greetings.yml/badge.svg?branch=main)](https://github.com/THEWWWTHING-MANAGEMENT/.github/actions/workflows/greetings.yml)
 <!--
 
 **Here are some ideas to get you started:**
